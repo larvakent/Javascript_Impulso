@@ -1,7 +1,5 @@
- //var preco = 150
- var desconto = 0.2
- const PRECO = 2
- 
- total = PRECO - desconto
+function soma(a, b) {
+    return a+b;
+}
 
- console.log(total);
+soma(5,9)
